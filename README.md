@@ -4,11 +4,11 @@
 <br>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshittaneja&label=Profile%20views&color=0e75b6&style=flat" alt="harshittaneja" /> </p>
-
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshittaneja" alt="harshittaneja" /></a> </p>
-
+<br>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<br>
 - 📫 How to reach me **harshittaneja090@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1CAA7FR_bjE_PECVg4cWfZilbJ1S8EjZK/view?usp=sharing](https://drive.google.com/file/d/1CAA7FR_bjE_PECVg4cWfZilbJ1S8EjZK/view?usp=sharing)
