@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harshit taneja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit taneja" height="30" width="40" /></a>
-<a href="https://fb.com/harshit taneja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harshit taneja" height="30" width="40" /></a>
-<a href="https://instagram.com/harshit_taneja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshit_taneja" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harshittaneja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshittaneja" height="30" width="40" /></a>
+<a href="https://fb.com/harshittaneja090" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harshittaneja090" height="30" width="40" /></a>
+<a href="https://instagram.com/harshit___taneja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshit___taneja" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/harshit_taneja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="harshit_taneja" height="30" width="40" /></a>
 <a href="https://discord.gg/harshit_taneja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="harshit_taneja" height="30" width="40" /></a>
 </p>
