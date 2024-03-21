@@ -21,6 +21,8 @@
 <a href="https://discord.gg/harshit_taneja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="harshit_taneja" height="30" width="40" /></a>
 </p>
 <h3 align="left">Badges:</h3>
+<a href="https://linkedin.com/in/harshittaneja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshittaneja" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harshittaneja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshittaneja" height="30" width="40" /></a>
 <img src="All badges/microsoft-certified-azure-developer-associate.1.png"  width="80" height="80"/>
 <img src="All badges/microsoft-certified-azure-administrator-associate.1.png"  width="80" height="80"/>
 <h3 align="left">Languages and Tools:</h3>
