@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Harshit Taneja</h1>
-<h3 align="center">A Full Stack Developer from India</h3>
+<h3 align="center">Microsoft Certified Azure Developer & Administrator Associate </h3>
 <img align="right" alt="coding"  style="border-radius: 60px;" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" >
 <br>
 <br>
