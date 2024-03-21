@@ -23,6 +23,10 @@
 <h3 align="left">Badges:</h3>
 <a href="#" target="blank"><img src="All badges/microsoft-certified-azure-developer-associate.1.png"  width="80" height="80"/></a>
 <a href="#" target="blank"><img src="All badges/microsoft-certified-azure-administrator-associate.1.png"  width="80" height="80"/></a>
+<a href="#" target="blank"><img src="All badges/microsoft-certified-azure-fundamentals.png"  width="80" height="80"/></a>
+<a href="#" target="blank"><img src="All badges/microsoft-certified-security-compliance-and-identity-fundamentals.png"  width="80" height="80"/></a>
+<a href="#" target="blank"><img src="All badges/microsoft-certified-azure-data-fundamentals.png"  width="80" height="80"/></a>
+<a href="#" target="blank"><img src="All badges/microsoft-365-certified-fundamentals.png"  width="80" height="80"/></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
