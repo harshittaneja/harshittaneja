@@ -22,6 +22,7 @@
 </p>
 <h3 align="left">Earned Badges:</h3>
 <a href="#" target="blank"><img src="All badges/microsoft-certified-azure-developer-associate.1.png"  width="80" height="80"/></a>
+<a href="#" target="blank"><img src="All badges/microsoft-certified-azure-developer-associate.1.png"  width="80" height="80"/></a>
 <a href="#" target="blank"><img src="All badges/microsoft-certified-azure-administrator-associate.1.png"  width="80" height="80"/></a>
 <a href="https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-fundamentals" target="blank"><img src="All badges/microsoft-certified-azure-fundamentals.png"  width="80" height="80"/></a>
 <a href="https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-security-compliance-and-identity-fundamentals" target="blank"><img src="All badges/microsoft-certified-security-compliance-and-identity-fundamentals.png"  width="80" height="80"/></a>
