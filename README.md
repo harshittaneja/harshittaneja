@@ -21,11 +21,12 @@
 <a href="https://discord.gg/harshit_taneja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="harshit_taneja" height="30" width="40" /></a>
 </p>
 <h3 align="left">Earned Badges:</h3>
-<a href="#" target="blank"><img src="All badges/cloud-digital-leader-certification.png"  width="80" height="80"/></a>
+
 <a href="#" target="blank"><img src="All badges/microsoft-certified-azure-developer-associate.1.png"  width="80" height="80"/></a>
 <a href="#" target="blank"><img src="All badges/microsoft-certified-azure-administrator-associate.1.png"  width="80" height="80"/></a>
 <a href="https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-fundamentals" target="blank"><img src="All badges/microsoft-certified-azure-fundamentals.png"  width="80" height="80"/></a>
 <a href="https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-security-compliance-and-identity-fundamentals" target="blank"><img src="All badges/microsoft-certified-security-compliance-and-identity-fundamentals.png"  width="80" height="80"/></a>
+<a href="#" target="blank"><img src="All badges/cloud-digital-leader-certification.png"  width="80" height="80"/></a>
 <a href="https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-data-fundamentals" target="blank"><img src="All badges/microsoft-certified-azure-data-fundamentals.png"  width="80" height="80"/></a>
 <a href="https://www.credly.com/org/microsoft-certification/badge/microsoft-365-certified-fundamentals" target="blank"><img src="All badges/microsoft-365-certified-fundamentals.png"  width="80" height="80"/></a>
 <a href="https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-ai-fundamentals" target="blank"><img src="All badges/microsoft-certified-azure-ai-fundamentals.png"  width="80" height="80"/></a>
