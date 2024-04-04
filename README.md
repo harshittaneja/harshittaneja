@@ -26,7 +26,7 @@
 <a href="#" target="blank"><img src="All badges/microsoft-certified-azure-administrator-associate.1.png"  width="80" height="80"/></a>
 <a href="https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-fundamentals" target="blank"><img src="All badges/microsoft-certified-azure-fundamentals.png"  width="80" height="80"/></a>
 <a href="https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-security-compliance-and-identity-fundamentals" target="blank"><img src="All badges/microsoft-certified-security-compliance-and-identity-fundamentals.png"  width="80" height="80"/></a>
-<a href="#" target="blank"><img src="All badges/cloud-digital-leader-certification.png"  width="80" height="80"/></a>
+<a href="https://www.credly.com/org/google-cloud/badge/cloud-digital-leader-certification" target="blank"><img src="All badges/cloud-digital-leader-certification.png"  width="80" height="80"/></a>
 <a href="https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-data-fundamentals" target="blank"><img src="All badges/microsoft-certified-azure-data-fundamentals.png"  width="80" height="80"/></a>
 <a href="https://www.credly.com/org/microsoft-certification/badge/microsoft-365-certified-fundamentals" target="blank"><img src="All badges/microsoft-365-certified-fundamentals.png"  width="80" height="80"/></a>
 <a href="https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-ai-fundamentals" target="blank"><img src="All badges/microsoft-certified-azure-ai-fundamentals.png"  width="80" height="80"/></a>
