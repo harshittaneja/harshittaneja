@@ -8,7 +8,7 @@
 <br>
 - 📫 How to reach me **harshittaneja090@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CAA7FR_bjE_PECVg4cWfZilbJ1S8EjZK/view?usp=sharing](https://drive.google.com/file/d/1CAA7FR_bjE_PECVg4cWfZilbJ1S8EjZK/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1eJ1WMws5X6h95Vl_2SEJc_MPJaHkFb_3/view?usp=drive_link)
 
 - ⚡ Fun fact **I am funny 😁**
 
