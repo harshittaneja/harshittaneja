@@ -24,11 +24,23 @@
 
 <h3 align="left">Earned Badges:</h3>
 <p>
-  <a href="#"><img src="All badges/microsoft-certified-azure-developer-associate.1.png" width="80" height="80" /></a>
-  <a href="#"><img src="All badges/microsoft-certified-azure-administrator-associate.1.png" width="80" height="80" /></a>
-  <a href="https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-fundamentals"><img src="All badges/microsoft-certified-azure-fundamentals.png" width="80" height="80" /></a>
-  <a href="https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-security-compliance-and-identity-fundamentals"><img src="All badges/microsoft-certified-security-compliance-and-identity-fundamentals.png" width="80" height="80" /></a>
-  <a href="https://www.credly.com/org/google-cloud/badge/cloud-digital-leader-certification"><img src="All badges/cloud-digital-leader-certification.png" width="80" height="80" /></a>
+ <a href="#" target="blank"><img src="All badges/microsoft-certified-azure-developer-associate.1.png"  width="80" height="80"/></a>
+<a href="#" target="blank"><img src="All badges/microsoft-certified-azure-administrator-associate.1.png"  width="80" height="80"/></a>
+<a href="https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-fundamentals" target="blank"><img src="All badges/microsoft-certified-azure-fundamentals.png"  width="80" height="80"/></a>
+<a href="https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-security-compliance-and-identity-fundamentals" target="blank"><img src="All badges/microsoft-certified-security-compliance-and-identity-fundamentals.png"  width="80" height="80"/></a>
+<a href="https://www.credly.com/org/google-cloud/badge/cloud-digital-leader-certification" target="blank"><img src="All badges/cloud-digital-leader-certification.png"  width="80" height="80"/></a>
+<a href="https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-data-fundamentals" target="blank"><img src="All badges/microsoft-certified-azure-data-fundamentals.png"  width="80" height="80"/></a>
+<a href="https://www.credly.com/org/microsoft-certification/badge/microsoft-365-certified-fundamentals" target="blank"><img src="All badges/microsoft-365-certified-fundamentals.png"  width="80" height="80"/></a>
+<a href="https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-ai-fundamentals" target="blank"><img src="All badges/microsoft-certified-azure-ai-fundamentals.png"  width="80" height="80"/></a>
+<a href="#" target="blank"><img src="All badges/cloud-application-developer-2019-mastery-award.png"  width="80" height="80"/></a>
+<a href="#" target="blank"><img src="All badges/cloud-application-developer-2019-explorer-award.png"  width="80" height="80"/></a>
+<a href="https://www.credly.com/org/ibm/badge/building-cloud-native-and-multicloud-applications" target="blank"><img src="All badges/building-cloud-native-and-multicloud-applications.png"  width="80" height="80"/></a>
+<a href="https://www.credly.com/org/ibm/badge/docker-essentials-a-developer-introduction" target="blank"><img src="All badges/docker-essentials-a-developer-introduction.png"  width="80" height="80"/></a>
+<a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner" target="blank"><img src="All badges/aws-certified-cloud-practitioner.png"  width="80" height="80"/></a>
+<a href="https://www.credly.com/org/amazon-web-services/badge/aws-partner-accreditation-technical" target="blank"><img src="All badges/aws-partner-accreditation-technical.png"  width="80" height="80"/></a>
+<a href="https://www.credly.com/org/amazon-web-services/badge/aws-partner-sales-accreditation-business" target="blank"><img src="All badges/aws-partner-sales-accreditation-business.png"  width="80" height="80"/></a>
+<a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-cloud-101" target="blank"><img src="All badges/aws-educate-introduction-to-cloud-101.png"  width="80" height="80"/></a>
+<a href="https://www.credly.com/org/amazon-web-services/badge/aws-academy-graduate-aws-academy-cloud-foundations" target="blank"><img src="All badges/aws-academy-graduate-aws-academy-cloud-foundations.png"  width="80" height="80"/></a>
   <!-- Add additional badges here -->
 </p>
 
