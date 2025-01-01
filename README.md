@@ -24,9 +24,9 @@
 
 <h3 align="left">Earned Badges:</h3>
 <p>
-<a href="#" target="blank"><img src="All badges/azure-Data Engineer Associate.png"  width="80" height="80"/></a>
-<a href="#" target="blank"><img src="All badges/microsoft-certified-azure-developer-associate.1.png"  width="80" height="80"/></a>
-<a href="#" target="blank"><img src="All badges/microsoft-certified-azure-administrator-associate.1.png"  width="80" height="80"/></a>
+<a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-data-engineer/?practice-assessment-type=certification&source=learn" target="blank"><img src="All badges/azure-Data Engineer Associate.png"  width="80" height="80"/></a>
+<a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/?practice-assessment-type=certification" target="blank"><img src="All badges/microsoft-certified-azure-developer-associate.1.png"  width="80" height="80"/></a>
+<a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification" target="blank"><img src="All badges/microsoft-certified-azure-administrator-associate.1.png"  width="80" height="80"/></a>
 <a href="https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-fundamentals" target="blank"><img src="All badges/microsoft-certified-azure-fundamentals.png"  width="80" height="80"/></a>
 <a href="https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-security-compliance-and-identity-fundamentals" target="blank"><img src="All badges/microsoft-certified-security-compliance-and-identity-fundamentals.png"  width="80" height="80"/></a>
 <a href="https://www.credly.com/org/google-cloud/badge/cloud-digital-leader-certification" target="blank"><img src="All badges/cloud-digital-leader-certification.png"  width="80" height="80"/></a>
