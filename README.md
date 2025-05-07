@@ -33,6 +33,7 @@
 <a href="https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-data-fundamentals" target="blank"><img src="All badges/microsoft-certified-azure-data-fundamentals.png"  width="80" height="80"/></a>
 <a href="https://www.credly.com/org/microsoft-certification/badge/microsoft-365-certified-fundamentals" target="blank"><img src="All badges/microsoft-365-certified-fundamentals.png"  width="80" height="80"/></a>
 <a href="https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-ai-fundamentals" target="blank"><img src="All badges/microsoft-certified-azure-ai-fundamentals.png"  width="80" height="80"/></a>
+<a href="https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-power-platform-fundamentals" target="blank"><img src="All badges/microsoft-certified-azure-pl-fundamentals.png.png"  width="80" height="80"/></a>
 <a href="#" target="blank"><img src="All badges/cloud-application-developer-2019-mastery-award.png"  width="80" height="80"/></a>
 <a href="#" target="blank"><img src="All badges/cloud-application-developer-2019-explorer-award.png"  width="80" height="80"/></a>
 <a href="https://www.credly.com/org/ibm/badge/building-cloud-native-and-multicloud-applications" target="blank"><img src="All badges/building-cloud-native-and-multicloud-applications.png"  width="80" height="80"/></a>
