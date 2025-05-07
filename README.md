@@ -43,7 +43,8 @@
 <a href="https://www.credly.com/org/amazon-web-services/badge/aws-partner-sales-accreditation-business" target="blank"><img src="All badges/aws-partner-sales-accreditation-business.png"  width="80" height="80"/></a>
 <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-cloud-101" target="blank"><img src="All badges/aws-educate-introduction-to-cloud-101.png"  width="80" height="80"/></a>
 <a href="https://www.credly.com/org/amazon-web-services/badge/aws-academy-graduate-aws-academy-cloud-foundations" target="blank"><img src="All badges/aws-academy-graduate-aws-academy-cloud-foundations.png"  width="80" height="80"/></a>
-<a href="https://www.credly.com/org/cisco/badge/introduction-to-packet-tracer" target="blank"><img src="All badges/introduction-to-packet-tracer.png"  width="60" height="60"/></a>
+
+
   <!-- Add additional badges here -->
 </p>
 
