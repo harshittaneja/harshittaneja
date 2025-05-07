@@ -19,12 +19,11 @@
   <a href="https://www.youtube.com/c/harshit_taneja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
   <a href="https://discord.gg/harshit_taneja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
   <a href="https://www.threads.net/@yourusername" target="blank">
-<a href="https://www.threads.net/@yourusername" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/threads.svg" alt="Threads" height="30" width="40" style="filter: invert(1);" />
+a href="https://www.threads.net/@yourusername" target="blank">
+  <img align="center" src="https://your-repo-path/threads-white.png" alt="Threads" height="30" width="40" />
 </a>
 <a href="https://yourusername.tumblr.com" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tumblr.svg" alt="Tumblr" height="30" width="40" style="filter: invert(1);" />
-</a>
+  <img align="center" src="https://your-repo-path/tumblr-white.png" alt="Tumblr" height="30" width="40" />
 </a>
 </p>
 
